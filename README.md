@@ -1,16 +1,15 @@
-# pawlinker
+PawLinker
 
-A new Flutter project.
+PawLinker is a Flutter application for connecting pet lovers, enabling users to buy/sell pets, pet products, and communicate with each other.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+User authentication (Sign Up / Login)
 
-A few resources to get you started if this is your first Flutter project:
+Browse adoptable pets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Buy and sell pet-related products
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Communicate with other users
+
+User profile management
